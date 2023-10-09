@@ -49,10 +49,6 @@ Inline `code`
 
 Indented code
 
-  // Comments
-  line 1 of code
-  line 2 of code
-
 Block code "fences"
 
 ```
