@@ -83,8 +83,4 @@ Right aligned columns
 
 
 ## Links
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
 [Direct Product](/product.pdf)
