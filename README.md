@@ -27,4 +27,13 @@ _This is italic text_
 > > > ...or with spaces between arrows.
 
 ## Lists
+
+Unordered
++ Create a list by starting a line with '+', '-', or '*'
++ Sub-lists are made by indenting 2 spaces:
+    - Marker character change forces new list start:
+      * Ac
+
+
+
 [Contribution guidelines for this project](/product.pdf)
