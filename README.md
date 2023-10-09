@@ -27,3 +27,4 @@ _This is italic text_
 > > > ...or with spaces between arrows.
 
 ## Lists
+[Contribution guidelines for this project](/product.pdf)
